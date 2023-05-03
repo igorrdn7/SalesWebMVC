@@ -14,7 +14,7 @@
             Name = name;
         }
 
-        public void AddSeller(Seller seller) 
+        public void AddSeller(Seller seller)
         {
             Sellers.Add(seller);
         }
